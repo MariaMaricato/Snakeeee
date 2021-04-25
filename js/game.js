@@ -6,6 +6,7 @@ const config ={
     type: Phaser.auto,
     parent: 'game-canvas',
     scene: [MainScene]
+
 }
 
 new Phaser.Game(config);
